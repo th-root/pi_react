@@ -1,2 +1,2 @@
-# Projeto Integrador com Reac e Node
+# Projeto Integrador com React e Node
     
